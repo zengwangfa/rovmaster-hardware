@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/doc/pictures/sub master logo.jpg"/>
+  <img src="/doc/pictures/SubMaster-logo.jpg"/>
 </p>
 
 
@@ -8,9 +8,12 @@
   <a href="https://img.shields.io"><img src="https://img.shields.io/github/repo-size/ROV-Master/rovmaster-hardware?style=flat-square" alt="Size"></a>
 </p>
 
+
 - 主板基于NanoPi NEO Core，外部扩展PWM、ADC
 
-![主板](doc/pictures/ROV Mater Mainboard V1.0.png)
+
+![主板](doc/pictures/ROV-Master-Mainboard-V1.0.png)
+
 
 ## 1.ROV Master 硬件进展
 
