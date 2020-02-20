@@ -17,9 +17,9 @@
 
 ## 1.ROV Master 硬件进展
 
-- [X] 主板设计
-    - [X] Rov Master主板 by [@Ian](https://github.com/zengwangfa)	
-	- [ ] 扩展接口板 by [@Ian](https://github.com/zengwangfa)
+- [x] 主板设计
+    - [x] Rov Master主板 by [@Ian](https://github.com/zengwangfa)	
+	- [x] 扩展接口板 by [@Ian](https://github.com/zengwangfa)
 ---
 
 - [x] 深度传感器
