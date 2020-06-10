@@ -73,7 +73,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JNQFKCTR
 
 [Document3]
-DocumentPath=..\..\PCB-Ruler\pcb library\集大电协1.5.PcbLib
+DocumentPath=集大电协1.5.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -87,10 +87,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PLYXJNTX
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\PCB-Ruler\pcb library\集大电协1.5.SchLib
+DocumentPath=集大电协1.5.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WRAMLLWE
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
