@@ -14,18 +14,18 @@
 
 > 电源供电为DC300V，主板基于NanoPi NEO Core，外部扩展PWM、ADC
 
-- (1.ROV Master Interface Board 接线板)[/1.ROV Master Interface Board V2.0]
+- [1.ROV Master Interface Board 接线板](/1.ROV Master Interface Board V2.0/)
 	- 插入主板，用于给PWM设备信号线接入
 	
-- (2.ROV Master Mainboard 主板)[/2.ROV Master Mainboard V3.0]
+- [2.ROV Master Mainboard 主板](/2.ROV Master Mainboard V3.0/)
 	- 主控
 	
-- (3.Powerboard in ROV 舱内电源板)[/3.Powerboard in ROV V1.0]
+- [3.Powerboard in ROV 舱内电源板](/3.Powerboard in ROV V1.0/)
 	- 为设备提供1500W电源输出
 	
-- (4.Ground Station  地面站)[/4.Ground Station V1.0]
+- [4.Ground Station 地面站](/4.Ground Station V1.0/)
 
-- (MP1584 VRM 稳压电源模块3A)[/MP1584 VRM]
+- [MP1584 VRM 稳压电源模块3A](/MP1584 VRM/)
 
 ![主板](doc/pictures/ROV-Master-Mainboard-V1.0.png)
 
