@@ -1,17 +1,18 @@
 
 <div align="center">
   <a href="https://github.com/zengwangfa/rov-master"><img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/sub_master_logo1.jpg" alt=""></a>
-  <a href="https://github.com/zengwangfa/rov-master"><h1>Rov-Master-Hardware</h1></a>
+  <h2><a href="https://github.com/zengwangfa/rov-master"></a>Rov-Master-Hardware</h2>
 </div>
 
 
 
 <p align="center">
+  <a href="https://www.altium.com.cn/"><img src="https://img.shields.io/badge/Tool-Altuim%20Designer-orange" alt="Tool"></a>
   <a href="https://img.shields.io"><img src="https://img.shields.io/github/repo-size/ROV-Master/rovmaster-hardware?style=flat-square" alt="Size"></a>
 </p>
 
 
-## 1.ROV Master 硬件说明
+## 1.ROV Master 硬件说明:pencil2:
 
 > 电源供电为DC300V，主板基于NanoPi NEO Core，外部扩展PWM、ADC
 
@@ -30,7 +31,7 @@
 
 
 
-## 2.ROV Master 硬件进展
+## 2.ROV Master 硬件进展:family:
 
 - [x] 舱内电路设计
 	- [x] 接线板 by [@Ian](https://github.com/zengwangfa)
