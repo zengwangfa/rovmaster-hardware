@@ -1,15 +1,14 @@
 
 <div align="center">
-  <a href="https://github.com/zengwangfa/rov-master"><img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/sub_master_logo.jpg" alt=""></a>
+  <a href="https://github.com/zengwangfa/rov-master"><img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/sub_master_logo1.jpg" alt=""></a>
   <a href="https://github.com/zengwangfa/rov-master"><h1>Rov-Master-Hardware</h1></a>
 </div>
 
 
-<p align="center">
 
+<p align="center">
   <a href="https://img.shields.io"><img src="https://img.shields.io/github/repo-size/ROV-Master/rovmaster-hardware?style=flat-square" alt="Size"></a>
 </p>
-
 
 
 ## 1.ROV Master 硬件说明
@@ -18,7 +17,7 @@
 
 - 1.ROV Master Interface Board 接线板
 	- 插入主板，用于给PWM设备信号线接入
-	
+
 - 2.ROV Master Mainboard 主板
 	- 主控
 	
