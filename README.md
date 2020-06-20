@@ -16,18 +16,13 @@
 
 > 电源供电为DC300V，主板基于NanoPi NEO Core，外部扩展PWM、ADC
 
-- 1.ROV Master Interface Board 接线板
-	- 插入主板，用于给PWM设备信号线接入
-
-- 2.ROV Master Mainboard 主板
-	- 主控
-	
-- 3.Powerboard in ROV 舱内电源板
-	- 为设备提供1500W电源输出
-	
-- 4.Ground Station 地面站
-
-- MP1584 VRM 稳压电源模块3A
+| 序号 | 文件夹名 | 用途 |
+| :---: | :---: | :---: |
+| 1 | ROV Master Interface Board | 接线板，插入主板，用于给PWM设备信号线接入 |
+| 2 | ROV Master Mainboard | 主板，主控 |
+| 3 | Powerboard in ROV | 舱内电源板，为设备提供1500W电源输出 |
+| 4 | Ground Station | 地面站，提供通信转接及高压直流电源 |
+| 5 | MP1584 VRM | 低压电源模块，峰值3A |
 
 
 
@@ -63,7 +58,8 @@
 	- [x] DC-DC 24V/3A 降压模块
 	
 	
-
+#### Github下载过慢
+- [Github下载过慢解决办法](https://blog.csdn.net/wangshuaiwsws95/article/details/104730741/)
 	
 #### 参与贡献
 - Fork 本仓库
