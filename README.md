@@ -1,16 +1,13 @@
-
 <div align="center">
-  <a href="https://github.com/zengwangfa/rov-master"><img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/sub_master_logo1.jpg" alt=""></a>
-  <h2><a href="https://github.com/zengwangfa/rov-master"></a>Rov-Master-Hardware</h2>
+  <a href="https://github.com/zengwangfa/rov-master"><img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/rovmaster1.jpg" alt=""></a>
+  <a href="https://github.com/zengwangfa/rov-master"><h1>Rov-Master</h2></a>
 </div>
 
-
-
-<p align="center">
+<div align="center">
   <a href="https://www.altium.com.cn/"><img src="https://img.shields.io/badge/Tool-Altuim%20Designer-orange" alt="Tool"></a>
+  <a href="http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Core/zh"><img src="https://img.shields.io/badge/CPU-H3-brigreen.svg?style=flat-square" alt="Device"></a>
   <a href="https://img.shields.io"><img src="https://img.shields.io/github/repo-size/ROV-Master/rovmaster-hardware?style=flat-square" alt="Size"></a>
-</p>
-
+</div>
 
 ## 1.ROV Master 硬件说明:pencil2:
 
@@ -20,8 +17,8 @@
 | :---: | :---: | :---: |
 | 1 | ROV Master Interface Board | 接线板，插入主板，用于给PWM设备信号线接入 |
 | 2 | ROV Master Mainboard | 主板，主控 |
-| 3 | Powerboard in ROV | 舱内电源板，为设备提供1500W电源输出 |
-| 4 | Ground Station | 地面站，提供通信转接及高压直流电源 |
+| 3 | ROV Master Powerboard | 舱内电源板，为设备提供1500W电源输出 |
+| 4 | ROV Master Ground Station | 地面站，提供通信转接及高压直流电源 |
 | 5 | MP1584 VRM | 低压电源模块，峰值3A |
 
 
