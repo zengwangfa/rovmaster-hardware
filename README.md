@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/zengwangfa/rov-master"><img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/rovmaster1.jpg" alt=""></a>
-  <a href="https://github.com/zengwangfa/rov-master"><h1>Rov-Master</h2></a>
+  <a href="https://github.com/zengwangfa/rov-master"><img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/rovmaster(vector).png" alt=""></a>
+  <a href="https://github.com/ROV-Master/rovmaster-hardware"><h1>ROV-Master</h2></a>
 </div>
 
 <div align="center">
@@ -22,38 +22,32 @@
 | 5 | ROV Master Zoom Controller | 变焦镜头控制板 |
 | 6 | MP1584 VRM | 低压电源模块，峰值3A，额定1.5A |
 
-
+![舱内装配图](https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/Chamber_structure1.jpg "舱内装配图")
 
 
 ## 2.ROV Master 硬件进展:family:
 
 - [x] 舱内电路设计
 	- [x] 接线板 by [@Ian](https://github.com/zengwangfa)
-    - [x] Rov Master主板 by [@Ian](https://github.com/zengwangfa)	
-	- [x] 舱内电源板 by [@Ian](https://github.com/Hyf338)
+	- [x] ROV Master主板 by [@Ian](https://github.com/zengwangfa)	
+	- [x] 舱内电源板 by [@Hyf](https://github.com/Hyf338)
+- [x] 地面站 by [Ian](www.github.com/zengwangfa)
+- [x] 变焦镜头控制板 by [Ian](www.github.com/zengwangfa)
+---
 
-- [ ] 地面站
-
-- [x] 深度传感器
-	- [x] MS5837 I2C版本 by [@Ian](https://github.com/zengwangfa)	
-	- [x] SPL1301 I2C版本 by [@Ian](https://github.com/zengwangfa)		 
+- [ ] 配件
+	
+	- [x] 深度传感器
+		- [x] MS5837 I2C版本 by [@Ian](https://github.com/zengwangfa)	
+		- [x] SPL1301 I2C版本 by [@Ian](https://github.com/zengwangfa)		 
 	- [ ] MS5837 UART自带解算版本
-	- [ ] SPL1301 UART自带解算版本	
-
-- [ ] 电调
-	- [ ] 单向电调
-	- [ ] 双向电调
-	
-- [ ] 9轴模块
-
-- [ ] 水下监控摄像头
-
-- [ ] 探照灯
-
-- [ ] 舵机调试器	
-	
-- [ ] 稳压电源
-	- [ ] AC-DC 稳压电源
+	- [ ] 电调
+		- [ ] 单向电调
+		- [ ] 双向电调
+	- [ ] 9轴模块
+	- [ ] 水下监控摄像头
+	- [ ] 探照灯
+	- [ ] 舵机调试器	
 	- [x] DC-DC 24V/3A 降压模块
 	
 	
