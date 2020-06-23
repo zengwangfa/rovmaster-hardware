@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://www.altium.com.cn/"><img src="https://img.shields.io/badge/Tool-Altuim%20Designer-orange" alt="Tool"></a>
-  <a href="http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Core/zh"><img src="https://img.shields.io/badge/CPU-H3-brigreen.svg?style=flat-square" alt="Device"></a>
+  <a href="http://wiki.friendlyarm.com/wiki/index.php/NanoPi_NEO_Core/zh"><img src="https://img.shields.io/badge/CPU-Allwinner H3-brigreen.svg?style=flat-square" alt="Device"></a>
   <a href="https://img.shields.io"><img src="https://img.shields.io/github/repo-size/ROV-Master/rovmaster-hardware?style=flat-square" alt="Size"></a>
 </div>
 
@@ -19,7 +19,9 @@
 | 2 | ROV Master Mainboard | 主板，主控 |
 | 3 | ROV Master Powerboard | 舱内电源板，为设备提供1500W电源输出 |
 | 4 | ROV Master Ground Station | 地面站，提供通信转接及高压直流电源 |
-| 5 | MP1584 VRM | 低压电源模块，峰值3A |
+| 5 | ROV Master Zoom Controller | 变焦镜头控制板 |
+| 6 | MP1584 VRM | 低压电源模块，峰值3A，额定1.5A |
+
 
 
 
