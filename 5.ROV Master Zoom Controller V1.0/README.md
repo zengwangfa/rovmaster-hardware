@@ -13,15 +13,15 @@
 
 # 1.新增加的特性
 
-- 电源输入为高压直流输入(DC300V)，稳压24V输出
-
+- 使用`MCU` STM32F103C8T6 
+- 增加`CP2102`  USB转UART模块进行调试
+- 使用A4988步进电机驱动模块
+- 增加AC220电流电压表
 
 # 2.说明
 
+[A4988 文件夹](https://github.com/ROV-Master/rovmaster-hardware/tree/master/5.ROV Master Zoom Controller V1.0/A4899) 存放A4988步进电机驱动芯片datasheet、尺寸图
 
 
 
-# 3.后续可改进的地方
-
-- 放置请勿触摸图标
-- PCB打样板材铜厚增加为2盎司(确保可以过足够大的电流)
+# 3.后续改进的地方

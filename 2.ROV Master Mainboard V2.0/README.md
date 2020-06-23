@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="../doc/pictures/SubMaster-logo.jpg"/>
+  <img src="https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/sub_master(vector).png"/>
 </p>
-
 
 <p align="center">
   <a href="https://www.altium.com/"><img src="https://img.shields.io/badge/tool-Altuim Designer-brigreen.svg?style=flat-square"></a>
