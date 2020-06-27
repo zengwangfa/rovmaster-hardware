@@ -123,10 +123,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TMARVLPN
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Ground Station\Board Information - Ground_Station_V1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
