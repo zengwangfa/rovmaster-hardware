@@ -106,10 +106,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WRAMLLWE
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Zoom Camera Controller V1.0\Board Information - Zoom Camera Controller V1.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
