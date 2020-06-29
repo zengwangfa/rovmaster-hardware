@@ -18,12 +18,17 @@
 - 增加光电转换器接口
 - 增加AC220电流电压表
 
+![地面站实物图](https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/Ground_Station_Product1.jpg "地面站实物图")
+
 # 2.说明
 
-[仪表盒开孔尺寸图 文件夹](https://github.com/ROV-Master/rovmaster-hardware/tree/master/4.ROV Master Ground Station V1.0/仪表盒开孔尺寸图) 存放地面站**侧板**、上盖板开孔尺寸图
+- [仪表盒开孔尺寸图 文件夹](https://github.com/ROV-Master/rovmaster-hardware/tree/master/4.ROV Master Ground Station V1.0/仪表盒开孔尺寸图) 存放地面站**侧板**、上盖板开孔尺寸图
 
 ![地面站内部设计连接图](https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/Ground_Station_Structrue.png "地面站内部设计连接图")
 
 
 # 3.后续可改进的地方
+- 1.壳体上盖板电流电压表位置，开孔外扩0.5mm即可（原先为1mm）
+- 2.WAN口可引出RJ45接口备用
+- 3.PC端RJ45网口可挨紧
 

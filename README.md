@@ -21,6 +21,7 @@
 | 4 | [ROV Master   Ground Station](https://github.com/ROV-Master/rovmaster-hardware/tree/master/4.ROV%20Master%20Ground%20Station%20V1.0) | 地面站，提供通信转接及高压直流电源 |
 | 5 | [ROV Master Zoom Controller](https://github.com/ROV-Master/rovmaster-hardware/tree/master/5.ROV%20Master%20Zoom%20Controller%20V2.0) | 变焦镜头控制板 |
 | 6 | MP1584 VRM（Voltage Regulator Module） | 低压电源模块，峰值3A，额定1.5A |
+| 7 | [lib](https://github.com/ROV-Master/rovmaster-hardware/tree/master/lib) | Altium Designer 封装库 |
 
 ![舱内装配图](https://zengwangfa.oss-cn-shanghai.aliyuncs.com/rov/Chamber_structure1.jpg "舱内装配图")
 
